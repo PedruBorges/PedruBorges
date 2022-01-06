@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Estudante de ciência da computação com foco em Front-End em busca de aprimoramento de habilidades e novas experiências.
 <!--
 **PedruBorges/PedruBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![HTML Badge](https://img.shields.io/badge/-HTML-orange)
-![CSS Badge](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)
-![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
-![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
-![NodeJS Badge](https://img.shields.io/badge/-Node.js-green) 
 ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-blue)
